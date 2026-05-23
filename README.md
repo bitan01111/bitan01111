@@ -111,11 +111,10 @@ Right now, I'm sharpening my skills every day, contributing to meaningful projec
 
 <div align="center">
 
-> **150+ problems solved** — Arrays · Linked Lists · Trees · DP · Graphs
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/bitan01111?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bitan01111&theme=dark)](https://leetcode-stats.vercel.app/?username=bitan01111)
 
 </div>
+
 
 ---
 
