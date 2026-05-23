@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Raw+Data+into+Smart+Decisions+%F0%9F%93%8A;Generative+AI+%7C+ML+%7C+Data+Analytics;CSE+%40+Techno+India+University+%7C+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Raw+Data+into+Smart+Decisions+%F0%9F%93%8A;Generative+AI+%7C+ML+%7C+Data+Analytics;CSE+%40+Techno+Main+Saltlake+%7C+2027" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm **Bitan Chakraborty**, a passionate Computer Science undergraduate from **Kolkata, India** 🇮🇳, currently pursuing my B.Tech at **Techno India University** (Class of 2027).
+Hey there! I'm **Bitan Chakraborty**, a passionate Computer Science undergraduate from **Kolkata, India** 🇮🇳, currently pursuing my B.Tech at **Techno Main Saltlake** (Class of 2027).
 
 I'm someone who genuinely loves the intersection of **artificial intelligence, data, and real-world problem solving**. Whether it's building a chatbot that actually understands what you mean, training a machine learning model to predict student outcomes, or digging through thousands of rows of cricket data to uncover hidden patterns — I'm in my element when code meets curiosity.
 
@@ -162,7 +162,7 @@ Right now, I'm sharpening my skills every day, contributing to meaningful projec
 
 <br/>
 
-**📍 Kolkata, West Bengal, India &nbsp;|&nbsp; 🎓 B.Tech CSE @ Techno India University &nbsp;|&nbsp; 📅 Available 2025**
+**📍 Kolkata, West Bengal, India &nbsp;|&nbsp; 🎓 B.Tech CSE @ Techno Main Saltlake &nbsp;|&nbsp; 📅 Available 2025**
 
 </div>
 
@@ -174,7 +174,7 @@ Right now, I'm sharpening my skills every day, contributing to meaningful projec
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=100&section=footer" width="100%" />
 
 <div align="center">
   <sub>⚡ Built with precision · Powered by curiosity · Driven by impact</sub>
